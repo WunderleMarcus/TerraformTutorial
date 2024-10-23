@@ -1,6 +1,6 @@
 
 
-## Terraform Tutorial: from Zero to Hero
+# Terraform Tutorial: from Zero to Hero
 
 [Modul 1: Einführung in Terraform & Grundkonzepte](#modul-1:-einführung-in-terraform-&-grundkonzepte)
 
@@ -33,7 +33,7 @@
 
 [4\. Installation von Terraform und Einrichten einer lokalen Entwicklungsumgebung](#4.-installation-von-terraform-und-einrichten-einer-lokalen-entwicklungsumgebung)
 
-
+**
 [Schritt-für-Schritt-Anleitung zur Installation von Terraform:](#schritt-für-schritt-anleitung-zur-installation-von-terraform:)
 
 [Thema 2: Erstes Terraform-Projekt](#thema-2:-erstes-terraform-projekt)
@@ -54,7 +54,7 @@
 
 [4\. Überprüfe die generierte Statusdatei (terraform.tfstate)](#4.-überprüfe-die-generierte-statusdatei-\(terraform.tfstate\))
 
-
+##
 
 [Thema 3: Terraform-Syntax und Dateistruktur](#thema-3:-terraform-syntax-und-dateistruktur)
 
@@ -78,7 +78,7 @@
 
 [terraform validate: Die Konfiguration validieren](#terraform-validate:-die-konfiguration-validieren)
 
-
+##
 
 [Thema 4: Arbeiten mit Providern](#thema-4:-arbeiten-mit-providern)
 
@@ -102,7 +102,7 @@
 
 [Zusammenfassung](#zusammenfassung)
 
-
+##
 
 [Thema 5: Praktisches Projekt](#thema-5:-praktisches-projekt)
 
