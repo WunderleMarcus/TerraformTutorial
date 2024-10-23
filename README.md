@@ -1,6 +1,6 @@
-# TerraformTutorial
-Simple Tutorial for working with Terraform
-# Terraform Tutorial: from Zero to Hero
+
+
+## Terraform Tutorial: from Zero to Hero
 
 [Modul 1: Einführung in Terraform & Grundkonzepte](#modul-1:-einführung-in-terraform-&-grundkonzepte)
 
@@ -15,9 +15,13 @@ Simple Tutorial for working with Terraform
 
 
 
-## Hier gehts los....
+
+
+# Hier gehts los....
 
 [Modul 1: Einführung in Terraform & Grundkonzepte](#modul-1:-einführung-in-terraform-&-grundkonzepte-1)
+
+
 
 [Thema 1: Einführung in Terraform & Infrastructure as Code (IaC)](#thema-1:-einführung-in-terraform-&-infrastructure-as-code-\(iac\))
 
@@ -28,6 +32,7 @@ Simple Tutorial for working with Terraform
 [3\. Überblick über die Terraform-Architektur: Providers, Ressourcen, Status](#3.-überblick-über-die-terraform-architektur:-providers,-ressourcen,-status)
 
 [4\. Installation von Terraform und Einrichten einer lokalen Entwicklungsumgebung](#4.-installation-von-terraform-und-einrichten-einer-lokalen-entwicklungsumgebung)
+
 
 [Schritt-für-Schritt-Anleitung zur Installation von Terraform:](#schritt-für-schritt-anleitung-zur-installation-von-terraform:)
 
@@ -48,6 +53,8 @@ Simple Tutorial for working with Terraform
 [terraform destroy: Infrastruktur löschen](#terraform-destroy:-infrastruktur-löschen)
 
 [4\. Überprüfe die generierte Statusdatei (terraform.tfstate)](#4.-überprüfe-die-generierte-statusdatei-\(terraform.tfstate\))
+
+
 
 [Thema 3: Terraform-Syntax und Dateistruktur](#thema-3:-terraform-syntax-und-dateistruktur)
 
@@ -71,6 +78,8 @@ Simple Tutorial for working with Terraform
 
 [terraform validate: Die Konfiguration validieren](#terraform-validate:-die-konfiguration-validieren)
 
+
+
 [Thema 4: Arbeiten mit Providern](#thema-4:-arbeiten-mit-providern)
 
 [1\. Was sind Terraform-Provider?](#1.-was-sind-terraform-provider?)
@@ -92,6 +101,8 @@ Simple Tutorial for working with Terraform
 [Regionen wählen](#regionen-wählen)
 
 [Zusammenfassung](#zusammenfassung)
+
+
 
 [Thema 5: Praktisches Projekt](#thema-5:-praktisches-projekt)
 
